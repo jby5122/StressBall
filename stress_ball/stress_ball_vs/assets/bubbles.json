@@ -1,0 +1,33 @@
+[
+    {
+        "name": "goodBubble.jpg", 
+        "frame": {
+            "x": "0", 
+            "y": "0",
+            "width": "80", 
+            "height": "80"
+        }
+    },
+
+    {
+        "name": "okBubble.jpg", 
+        "frame": {
+            "x": "81", 
+            "y": "0",
+            "width": "80", 
+            "height": "80"
+        }
+    },
+    
+    {
+        "name": "box.png", 
+        "frame": {
+            "x": "161", 
+            "y": "0",
+            "width": "80", 
+            "height": "80"
+        }
+    }
+
+
+]
